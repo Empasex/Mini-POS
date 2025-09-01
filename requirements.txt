@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+sqlalchemy
+python-dotenv
+email-validator
+psycopg2-binary
+python-multipart
+passlib[bcrypt]
+itsdangerous
+python-jose
+# leave pymysql if you still use local MySQL, but not required for Supabase:
+# pymysql
