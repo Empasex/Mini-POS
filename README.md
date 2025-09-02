@@ -7,7 +7,7 @@ Mini-POS es un proyecto fullstack: frontend en React + TypeScript + Vite y backe
 ## Resúmen rápido
 - Frontend: src/ (React + TS + Vite). Deploy estático en Vercel.
 - Backend: backend/app (FastAPI). Actualmente en Replit en 
-- DB: DB gestionada (Postgres/MySQL) para producción.
+- DB: gestionada (Postgres/MySQL) Actualmente en Supabase.
 
 ---
 
