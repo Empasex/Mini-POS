@@ -1,5 +1,3 @@
-...existing code...
-
 # Mini-POS (WiseBiz Dashboard) — README adaptado
 
 Mini-POS es un proyecto fullstack: frontend en React + TypeScript + Vite y backend en FastAPI (Python). Este README congrega la información práctica para desarrollar, probar y desplegar (Vercel frontend + Replit/Render backend), además de pasos Git para subir solo el frontend.
